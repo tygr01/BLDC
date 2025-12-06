@@ -6,3 +6,4 @@ Motor sürücünün genel özellikleri aşağıda verilmişitir.
 - UCC27201
 - POWER: 3kW
 - BUCK: LM5164
+- CONTROL:TRAPEZOIDAL.
